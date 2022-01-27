@@ -1,7 +1,7 @@
 {
   "name": "Heroku-CyberTOR",
   "description": "Like A Boss UehToR",
-  "repository": "https://github.com/shakilofficial0/Heroku-CyberTOR",
+  "repository": "https://github.com/vivian-wis/Heroku-CyberTOR",
   "website": "https://shakilofficial0.github.io/",
   "keywords": ["node", "express", "bot", "torrent", "automation"],
   "env": {
