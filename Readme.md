@@ -6,7 +6,7 @@
 
 ### Quick Launch:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shakilofficial0/Heroku-CyberTOR)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vivian-wis/Heroku-CyberTOR)
 
 > Username: alpha
 
